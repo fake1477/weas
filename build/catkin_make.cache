@@ -1,0 +1,2 @@
+avlabs/avlab1:fetch/fetch_gazebo/fetch_gazebo:fetch/fetch_gazebo/fetch_gazebo_demo:fetch/fetch_gazebo/fetch_simulation:fetch/fetch_gazebo/fetchit_challenge:fetch/fetch_ros/fetch_calibration:fetch/fetch_ros/fetch_depth_layer:fetch/fetch_ros/fetch_description:fetch/fetch_ros/fetch_ikfast_plugin:fetch/fetch_ros/fetch_maps:fetch/fetch_ros/fetch_moveit_config:fetch/fetch_ros/fetch_navigation:fetch/fetch_ros/fetch_ros:fetch/fetch_ros/fetch_teleop
+-DCATKIN_DEVEL_PREFIX=/home/user/lab_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/lab_ws/install -G Unix Makefiles
